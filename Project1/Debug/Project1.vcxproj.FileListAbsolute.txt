@@ -1,2 +1,0 @@
-T:\CPPStudy-One-Hour-A-Day\Project1\Debug\源码.exe
-T:\CPPStudy-One-Hour-A-Day\Project1\Debug\源码.pdb
