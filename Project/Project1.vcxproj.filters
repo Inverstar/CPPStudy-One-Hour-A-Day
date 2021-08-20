@@ -15,14 +15,17 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
-    <ClCompile Include="6.6 ConditionalOperator_TernaryOperator.cpp">
+    <ClCompile Include="6.10.1.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.4 Dynamic_Array_std_vector.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.12 Functions_Lambda.cpp">
+      <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -14,3 +14,5 @@ void SayHello()
    cout << "Hello World" << endl;
    return; // an empty return
 }
+
+//7.3.cpp Ò»¸öSayHello()º¯Êý

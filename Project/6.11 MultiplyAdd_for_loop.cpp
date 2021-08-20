@@ -21,3 +21,5 @@ int main()
 
    return 0;
 }
+
+//6.11.cpp 使用无计数器的for循环

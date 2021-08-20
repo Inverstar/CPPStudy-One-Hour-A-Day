@@ -23,3 +23,5 @@ int main()
 
    return 0;
 }
+
+//6.8.cpp while—≠ª∑÷ÿ∏¥º∆À„

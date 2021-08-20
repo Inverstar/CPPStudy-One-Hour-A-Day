@@ -22,3 +22,5 @@ int main()
 
    return 0;
 }
+
+//6.9.cpp 使用do...while循环重复执行代码块

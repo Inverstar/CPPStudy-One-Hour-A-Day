@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
-
+#define N \
+12
+#def\
+ine N1 11
 int main()
 {
    const int ARRAY1_LEN = 3;
@@ -13,8 +16,10 @@ int main()
 
    for(int index1 = 0; index1 < ARRAY1_LEN; ++index1)
       for(int index2 = 0; index2 < ARRAY2_LEN; ++index2)
-         cout << myNums1[index1] << " x " << myNums2[index2] \
+         cout << myNums1[index1] << " x " << myNums2[index2] 
          << " = " << myNums1[index1] * myNums2[index2] << endl;
 
    return 0;
 }
+
+//6.14.cpp 使用嵌套循环实现两个数组之间的元素相乘

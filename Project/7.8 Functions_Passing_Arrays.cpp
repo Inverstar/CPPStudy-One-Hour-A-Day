@@ -27,3 +27,5 @@ int main()
 
    return 0;
 }
+
+//7.8.cpp 数组参数的函数示例

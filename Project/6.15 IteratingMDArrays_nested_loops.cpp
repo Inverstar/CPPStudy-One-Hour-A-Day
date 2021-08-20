@@ -13,14 +13,16 @@ int main()
 
    // iterate rows, each array of int
    for (int row = 0; row < NUM_ROWS; ++row)
-   {
+   
 	   // iterate integers in each row (columns)
       for (int column = 0; column < NUM_COLUMNS; ++column)
       {
-         cout << "Integer[" << row << "][" << column \
+         cout << "Integer[" << row << "][" << column 
              << "] = " << MyInts[row][column] << endl;
       }
-   }
+   
 
    return 0;
 }
+
+//6.15.cpp 使用嵌套循环遍历二维int数组的元素

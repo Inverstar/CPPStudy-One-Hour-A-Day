@@ -21,3 +21,5 @@ int main()
 
    return 0;
 }
+
+//6.10.cpp 使用for循环填充和显示静态数组元素

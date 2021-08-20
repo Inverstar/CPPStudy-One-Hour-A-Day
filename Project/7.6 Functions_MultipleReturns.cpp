@@ -17,7 +17,7 @@ void QueryAndCalculate()
    if (calcCircum == 'n')
 	   return;
    
-   cout << "Circumference: " << 2 * Pi * radius << endl;
+   cout << "Circumference: " << 2 * Pi * radius << endl;	//周长
    return;
 }
 
@@ -27,3 +27,5 @@ int main()
 
    return 0;
 }
+
+//7.6.cpp 多return语句函数

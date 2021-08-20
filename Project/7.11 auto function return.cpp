@@ -19,3 +19,5 @@ int main()
 
 	return 0;
 }
+
+//7.11.cpp 指定函数返回类型为auto

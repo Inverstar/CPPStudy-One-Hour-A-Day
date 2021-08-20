@@ -25,3 +25,5 @@ double SurfaceArea(double radius, double height)
    double area = 2 * Pi * radius * radius + 2 * Pi * radius * height;
    return area;
 }
+
+//7.2.cpp 用半径和高度计算圆柱表面积

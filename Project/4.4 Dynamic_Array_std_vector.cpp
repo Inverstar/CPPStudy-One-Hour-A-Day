@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -34,4 +34,5 @@ int main()
    return 0;
 }
 
-//4.3.cpp ¶¯Ì¬Êı×é vector µÄÊ¹ÓÃ
+//4.3.cpp åŠ¨æ€æ•°ç»„ vector çš„ä½¿ç”¨
+/*vector<ç±»å‹>æ•°ç»„å(åˆå§‹å¤§å°)*/

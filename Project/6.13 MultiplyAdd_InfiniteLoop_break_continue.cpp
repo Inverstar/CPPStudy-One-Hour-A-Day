@@ -32,3 +32,5 @@ int main()
 
    return 0;
 }
+
+// 6.13.cpp 使用continue进入下一次循环, 并用break退出无限循环

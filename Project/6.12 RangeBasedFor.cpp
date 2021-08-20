@@ -6,7 +6,7 @@ int main()
 {
    int someNums[] = { 1, 101, -1, 40, 2040 };
 
-   for (const int& aNum : someNums) 
+   for (const int& aNum : someNums) //可以去掉&, 正常输出
       cout << aNum << ' ';
    cout << endl;
 
@@ -31,3 +31,9 @@ int main()
 
    return 0;
 }
+
+//6.12.cpp 基于范围的for循环来处理数组和string
+
+//多个基于范围的for循环实现, 
+//for(单个元素:数组)
+//cout<<单个元素<<endl;

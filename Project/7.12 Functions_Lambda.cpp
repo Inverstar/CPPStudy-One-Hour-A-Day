@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <algorithm>
 #include <vector>
 using namespace std;
@@ -30,3 +30,5 @@ int main()
 
    return 0;
 }
+
+//7.12.cpp 使用lambda函数对数组元素排序

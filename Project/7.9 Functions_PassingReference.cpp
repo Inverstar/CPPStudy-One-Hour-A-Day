@@ -1,12 +1,13 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 const double Pi = 3.1416;
 
 // output parameter result by reference 
-void Area(double radius, double& result)
+double Area(double radius, double& result)
 {
    result = Pi * radius * radius;
+   return result;
 }
 
 int main() 
@@ -18,6 +19,8 @@ int main()
    double areaFetched = 0;
    Area(radius, areaFetched);
 
-   cout << "The area is: " << areaFetched << endl;
+   cout << "The area is: " << areaFetched <<'='<< Area(radius, areaFetched) << endl;
    return 0;
 }
+
+//7.9.cpp 引用参数提供⚪的面积

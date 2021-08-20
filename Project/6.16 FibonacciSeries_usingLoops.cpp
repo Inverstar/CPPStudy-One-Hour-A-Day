@@ -30,3 +30,5 @@ int main()
 
    return 0;
 }
+
+//6.16.cpp 使用嵌套循环计算Fibonacci数列

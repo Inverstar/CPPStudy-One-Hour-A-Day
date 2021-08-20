@@ -25,10 +25,12 @@ int main()
 // Function definitions (implementations)
 double Area(double radius)
 {
-   return Pi * radius * radius;
+   return Pi * radius * radius;	//面积
 }
 
 double Circumference(double radius)
 {
-   return 2 * Pi * radius;
+   return 2 * Pi * radius;	//周长
 }
+
+//7.1.cpp 计算圆的面积和周长的两个函数
