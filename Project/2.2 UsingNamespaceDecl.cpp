@@ -1,11 +1,11 @@
-// Pre-processor directive
+ï»¿// Pre-processor directive
 #include <iostream>
-//using namespace std; Ò²¿ÉÒÔĞ´ÔÚÕâÀï, ¶ÔÕû¸öÎÄ¼şÉúĞ§
+//using namespace std; ä¹Ÿå¯ä»¥å†™åœ¨è¿™é‡Œ, å¯¹æ•´ä¸ªæ–‡ä»¶ç”Ÿæ•ˆ
 // Start of your program
 int main()
 {
    // Tell the compiler what namespace to look in
-   using namespace std; //Ğ´ÔÚÕâÀï¶Ô¸Ãº¯ÊıÉúĞ§
+   using namespace std; //å†™åœ¨è¿™é‡Œå¯¹è¯¥å‡½æ•°ç”Ÿæ•ˆ
 
    /* Write to the screen using cout */
    cout << "Hello World" << endl;
@@ -14,4 +14,4 @@ int main()
    return 0;
 }
 
-//2.2 ÃüÃû¿Õ¼äµÄÎ»ÖÃÓë×÷ÓÃ
+//2.2 å‘½åç©ºé—´çš„ä½ç½®ä¸ä½œç”¨

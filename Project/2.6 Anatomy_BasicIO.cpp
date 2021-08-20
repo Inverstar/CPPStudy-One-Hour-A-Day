@@ -1,7 +1,7 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <string>
 using namespace std;
-//Int main(); ´óĞ´¾¯¸æ
+//Int main(); å¤§å†™è­¦å‘Š
 int main()
 {
    // Declare a variable to store an integer
@@ -22,4 +22,4 @@ int main()
    return 0;
 }
 
-//2.6.cpp ÊäÈëÒ»¸öÊı×Ö, ÊäÈëÄãµÄÃû×Ö, ·µ»Ø, ÄãÊäÈëÁËÊı×Ö
+//2.6.cpp è¾“å…¥ä¸€ä¸ªæ•°å­—, è¾“å…¥ä½ çš„åå­—, è¿”å›, ä½ è¾“å…¥äº†æ•°å­—

@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include<string.h>
 using namespace std;
 
@@ -17,4 +17,4 @@ int main()
    return 0;
 }
 
-//4.6.cpp C·ç¸ñ×Ö·û´®ÖÕÖ¹¿Õ×Ö·û
+//4.6.cpp Cé£Žæ ¼å­—ç¬¦ä¸²ç»ˆæ­¢ç©ºå­—ç¬¦

@@ -1,4 +1,4 @@
-// Pre-processor directive that includes header iostream
+ï»¿// Pre-processor directive that includes header iostream
 #include <iostream>
 
 // Start of your program: function block main()
@@ -10,4 +10,4 @@ int main()
    // Return a value to the OS
    return 0;
 }
-// ·ÖÎöÒ»¸ö¼òµ¥µÄC++³ÌĞò
+// åˆ†æä¸€ä¸ªç®€å•çš„C++ç¨‹åº

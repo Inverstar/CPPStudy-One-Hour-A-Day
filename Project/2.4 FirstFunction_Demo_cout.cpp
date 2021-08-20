@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 // Function declaration
@@ -27,4 +27,4 @@ int DemoConsoleOutput()
 	return 0;
 }
 
-//2.4.cpp void DemoConsoleOutput() º¯ÊýµÄÉùÃ÷\¶¨Òå\µ÷ÓÃ.
+//2.4.cpp void DemoConsoleOutput() å‡½æ•°çš„å£°æ˜Ž\å®šä¹‰\è°ƒç”¨.

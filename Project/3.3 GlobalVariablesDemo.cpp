@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 // Declare three global integers
@@ -37,8 +37,8 @@ int main ()
    cout << firstNumber << " x " << secondNumber << " = " << firstNumber * secondNumber << endl;
 
    return r == firstNumber * secondNumber;
-   //·µ»Ø³Ë»úº¯ÊýÐÎ³ÉÑ­»·
-   //==ÕýÈ·Îª1, ´íÎóÎª0;
+   //è¿”å›žä¹˜æœºå‡½æ•°å½¢æˆå¾ªçŽ¯
+   //==æ­£ç¡®ä¸º1, é”™è¯¯ä¸º0;
 }
 
-// 3.3.cpp Ê¹ÓÃÈ«¾Ö±äÁ¿
+// 3.3.cpp ä½¿ç”¨å…¨å±€å˜é‡

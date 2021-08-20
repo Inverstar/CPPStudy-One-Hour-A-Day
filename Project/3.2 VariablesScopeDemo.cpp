@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 void MultiplyNumbers ()
@@ -31,4 +31,4 @@ int main ()
    return 0;
 }
 
-// 3.2.cpp Ê¹ÓÃ±äÁ¿´æ´¢Êı×Ö¼°Æä³Ë»ı
+// 3.2.cpp ä½¿ç”¨å˜é‡å­˜å‚¨æ•°å­—åŠå…¶ä¹˜ç§¯

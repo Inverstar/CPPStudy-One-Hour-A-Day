@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <cstdint>
 int main()
 {
@@ -20,7 +20,7 @@ int main()
    
    cout << "The output changes with compiler, hardware and OS" << endl;
 
-   //Ö¸¶¨Î»ÊýµÄintÀà
+   //æŒ‡å®šä½æ•°çš„intç±»
    cout << "Size of int8_t: " << sizeof(int8_t) << endl;
    cout << "Size of uint8_t: " << sizeof(uint8_t) << endl;
    cout << "Size of int64_t: " << sizeof(int64_t) << endl;

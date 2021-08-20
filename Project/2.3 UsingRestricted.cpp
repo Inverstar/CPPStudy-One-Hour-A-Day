@@ -1,4 +1,4 @@
-// Preprocessor directive
+ï»¿// Preprocessor directive
 #include <iostream>
 
 // Start of your program
@@ -14,5 +14,5 @@ int main()
    return 0;
 }
 
-//using¹Ø¼ü×ÖµÄÁíÒ»ÖÖÓÃ·¨
-//Ö»ÉùÃ÷ĞèÒªÓÃµ½µÄÔªËØ std::cout ºÍ std::endl
+//usingå…³é”®å­—çš„å¦ä¸€ç§ç”¨æ³•
+//åªå£°æ˜éœ€è¦ç”¨åˆ°çš„å…ƒç´  std::cout å’Œ std::endl

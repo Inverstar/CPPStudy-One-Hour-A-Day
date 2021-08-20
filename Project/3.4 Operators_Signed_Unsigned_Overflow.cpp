@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main()
@@ -20,5 +20,5 @@ int main()
    return uu;
 }
 
-//3.4.cpp Òç³öÀı×Ó
-// ±äÁ¿ÀàĞÍ
+//3.4.cpp æº¢å‡ºä¾‹å­
+// å˜é‡ç±»å‹

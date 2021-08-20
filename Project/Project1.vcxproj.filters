@@ -27,5 +27,233 @@
     <ClCompile Include="7.12 Functions_Lambda.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="0.0 21C++.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1 Hello World.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.Quiz4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1 HelloWorldAnalysis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2 UsingNamespaceDecl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3 UsingRestricted.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4 FirstFunction_Demo_cout.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.5 FunctionValueReturnedFromMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.6 Anatomy_BasicIO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Ex3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1 VariablesDemo_MultiplyTwoNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2 VariablesScopeDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3 GlobalVariablesDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4 Operators_Signed_Unsigned_Overflow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5 Using_sizeof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6 UsingAuto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7 Demo_Constants.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.8 using constexpr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9 Using_enum_Constants.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Ex3 Calculate_Area_Circumference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1 AccessingArrayElements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2 WritingToArrayElements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3 Declaring_Initializing_MD_Arrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.5 C-Style_HelloWorld.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6 UserInput_C_Style_String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.7 CPPStrings_std_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.Ex1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1 Check_ArithmeticOperators.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2 Operators_PostFix_Prefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3 Operators_Relational_Equality.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.4 Operators_Logical_AND_OR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.5 Operators_Logical_And_Or_If.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.6 Operators_Logical_OR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.7 Operators_Bitwise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.8 Operators_BitwiseShift.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.9 Operators_CompoundOperators.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.10 Operator_sizeof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.Ex3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.Quiz5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1 Multiply_or_Add_if_else.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2 checkbounds.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3 Nested_if_check_Divisor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4 WhatDaysOfWeekMean_if_else.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5 DaysOfWeek_switch_case.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6 ConditionalOperator_TernaryOperator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.7 MultiplyOrAdd_goto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.8 MultiplyOrAdd_while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.9 MultiplyAdd_do_while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.10 EnterValuesInAnArray_DisplayArray_for_loop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.11 MultiplyAdd_for_loop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.12 RangeBasedFor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.13 MultiplyAdd_InfiniteLoop_break_continue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.14 CrossMultiplyTwoArrays_NestedLoops.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.15 IteratingMDArrays_nested_loops.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.16 FibonacciSeries_usingLoops.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Ex1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Ex2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Ex3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Ex4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1 Functions_ComputingAreaCircumference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.2 Functions_MultipleParameters_Cylinder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3 Functions_SayingHelloWithoutParamsReturnValue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.4 Functions_DefaulParameters_Pi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.5 Functions_Recursive_Fibonacci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.6 Functions_MultipleReturns.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.7 Functions_Overloaded_Area_CyclinderCircle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8 Functions_Passing_Arrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.9 Functions_PassingReference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.10 Functions_Inline.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.11 auto function return.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,4 +1,4 @@
-//C++11 ÒıÈëÁĞ±í×ª»»
+ï»¿//C++11 å¼•å…¥åˆ—è¡¨è½¬æ¢
 #include <stdio.h>
 #include <iostream>
 using namespace std;
