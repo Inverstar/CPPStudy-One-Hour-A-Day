@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -15,3 +15,5 @@ int main()
 
    return 0;
 }
+
+//8.6 指向不同变量类型的指针长度相同

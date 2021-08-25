@@ -1,18 +1,18 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
 {
    // uninitialized pointer (bad)
-   bool* isSunny; 
+   bool* isSunny = new bool; 
 
    cout << "Is it sunny (y/n)? ";
    char userInput = 'y';
    cin >> userInput;
-
+   *isSunny = false;
    if (userInput == 'y')
    {
-      isSunny = new bool;
+     
       *isSunny = true;
    }
 
@@ -24,3 +24,5 @@ int main()
 
    return 0;
 }
+
+//  8.13.cpp 存储在布尔值中的无效指针

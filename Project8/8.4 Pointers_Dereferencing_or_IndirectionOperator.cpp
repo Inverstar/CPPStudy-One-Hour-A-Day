@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -26,3 +26,5 @@ int main()
 
    return 0;
 }
+
+//8.4 使用指针变量来访问指向的数据

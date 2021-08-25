@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -30,3 +30,5 @@ int main()
 
    return 0;
 }
+
+//8.9.cpp 使用偏移量和运算符来递增和添加偏移量的结果

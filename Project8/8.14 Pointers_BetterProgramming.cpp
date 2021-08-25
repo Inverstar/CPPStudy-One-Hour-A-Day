@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -8,7 +8,7 @@ int main()
 	cin >> userInput;
 
 	// declare pointer and initialize
-	bool* const isSunny = new bool;
+	bool* const isSunny = new bool;	//	const 指针无需设NULL
 	*isSunny = true;
 
 	if (userInput == 'n')
@@ -18,6 +18,10 @@ int main()
 
    // release valid memory
    delete isSunny;
-
+   //cout << "Boolean flag sunny says: " << *isSunny << endl;
+   //*isSunny = NULL;
+ 
 	return 0;
 }
+
+//	8.14.cpp 安全的指针-8.13.cpp改

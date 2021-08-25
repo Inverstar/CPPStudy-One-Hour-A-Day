@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -14,6 +14,8 @@ int main()
    cout << "Age " << *pointsToAnAge << " is stored at 0x" << hex << pointsToAnAge << endl;
 
    delete pointsToAnAge; // release dynamically allocated memory
-
+   pointsToAnAge = NULL;
    return 0;
 }
+
+//8.7.cpp 使用*访问new分配的内存, 并使用delete释放

@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -19,3 +19,5 @@ int main()
 
    return 0;
 }
+
+//8.3 给指针重新赋值, 使其指向另一个变量的地址

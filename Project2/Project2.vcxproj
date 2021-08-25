@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8cc622ef-484a-4d97-b37d-eccc1755de63}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <ProjectGuid>{fa97e495-f2bc-469b-bd95-da17ac5de68d}</ProjectGuid>
+    <RootNamespace>Project2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>源码</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,92 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="0.0 21C++.cpp" />
-    <ClCompile Include="1.1 Hello World.cpp" />
-    <ClCompile Include="1.Quiz4.cpp" />
     <ClCompile Include="2.1 HelloWorldAnalysis.cpp" />
-    <ClCompile Include="2.2 UsingNamespaceDecl.cpp" />
-    <ClCompile Include="2.3 UsingRestricted.cpp" />
-    <ClCompile Include="2.4 FirstFunction_Demo_cout.cpp" />
-    <ClCompile Include="2.5 FunctionValueReturnedFromMain.cpp" />
-    <ClCompile Include="2.6 Anatomy_BasicIO.cpp" />
-    <ClCompile Include="2.Ex3.cpp" />
-    <ClCompile Include="3.1 VariablesDemo_MultiplyTwoNumbers.cpp" />
-    <ClCompile Include="3.2 VariablesScopeDemo.cpp" />
-    <ClCompile Include="3.2.7.cpp" />
-    <ClCompile Include="3.3 GlobalVariablesDemo.cpp" />
-    <ClCompile Include="3.3.1.cpp" />
-    <ClCompile Include="3.4 Operators_Signed_Unsigned_Overflow.cpp" />
-    <ClCompile Include="3.5 Using_sizeof.cpp" />
-    <ClCompile Include="3.5.1.cpp" />
-    <ClCompile Include="3.6 UsingAuto.cpp" />
-    <ClCompile Include="3.7 Demo_Constants.cpp" />
-    <ClCompile Include="3.7.1.cpp" />
-    <ClCompile Include="3.8 using constexpr.cpp" />
-    <ClCompile Include="3.9 Using_enum_Constants.cpp" />
-    <ClCompile Include="3.Ex3 Calculate_Area_Circumference.cpp" />
-    <ClCompile Include="4.1 AccessingArrayElements.cpp" />
-    <ClCompile Include="4.2 WritingToArrayElements.cpp" />
-    <ClCompile Include="4.2.1.cpp" />
-    <ClCompile Include="4.3 Declaring_Initializing_MD_Arrays.cpp" />
-    <ClCompile Include="4.4 Dynamic_Array_std_vector.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="4.5 C-Style_HelloWorld.cpp" />
-    <ClCompile Include="4.6 UserInput_C_Style_String.cpp" />
-    <ClCompile Include="4.7 CPPStrings_std_string.cpp" />
-    <ClCompile Include="4.Ex1.cpp" />
-    <ClCompile Include="5.1 Check_ArithmeticOperators.cpp" />
-    <ClCompile Include="5.1.1.cpp" />
-    <ClCompile Include="5.10 Operator_sizeof.cpp" />
-    <ClCompile Include="5.2 Operators_PostFix_Prefix.cpp" />
-    <ClCompile Include="5.3 Operators_Relational_Equality.cpp" />
-    <ClCompile Include="5.4 Operators_Logical_AND_OR.cpp" />
-    <ClCompile Include="5.5 Operators_Logical_And_Or_If.cpp" />
-    <ClCompile Include="5.6 Operators_Logical_OR.cpp" />
-    <ClCompile Include="5.7 Operators_Bitwise.cpp" />
-    <ClCompile Include="5.8 Operators_BitwiseShift.cpp" />
-    <ClCompile Include="5.9 Operators_CompoundOperators.cpp" />
-    <ClCompile Include="5.Ex3.cpp" />
-    <ClCompile Include="5.Quiz5.cpp" />
-    <ClCompile Include="6.1 Multiply_or_Add_if_else.cpp" />
-    <ClCompile Include="6.10 EnterValuesInAnArray_DisplayArray_for_loop.cpp" />
-    <ClCompile Include="6.11 MultiplyAdd_for_loop.cpp" />
-    <ClCompile Include="6.12 RangeBasedFor.cpp" />
-    <ClCompile Include="6.13 MultiplyAdd_InfiniteLoop_break_continue.cpp" />
-    <ClCompile Include="6.14 CrossMultiplyTwoArrays_NestedLoops.cpp" />
-    <ClCompile Include="6.15 IteratingMDArrays_nested_loops.cpp" />
-    <ClCompile Include="6.16 FibonacciSeries_usingLoops.cpp" />
-    <ClCompile Include="6.2 checkbounds.cpp" />
-    <ClCompile Include="6.3 Nested_if_check_Divisor.cpp" />
-    <ClCompile Include="6.4 WhatDaysOfWeekMean_if_else.cpp" />
-    <ClCompile Include="6.5 DaysOfWeek_switch_case.cpp" />
-    <ClCompile Include="6.6 ConditionalOperator_TernaryOperator.cpp" />
-    <ClCompile Include="6.7 MultiplyOrAdd_goto.cpp" />
-    <ClCompile Include="6.8 MultiplyOrAdd_while.cpp" />
-    <ClCompile Include="6.9 MultiplyAdd_do_while.cpp" />
-    <ClCompile Include="6.Ex1.cpp" />
-    <ClCompile Include="6.Ex2.cpp" />
-    <ClCompile Include="6.Ex3.cpp" />
-    <ClCompile Include="6.Ex4.cpp" />
-    <ClCompile Include="7.1 Functions_ComputingAreaCircumference.cpp" />
-    <ClCompile Include="7.10 Functions_Inline.cpp" />
-    <ClCompile Include="7.11 auto function return.cpp" />
-    <ClCompile Include="7.12 Functions_Lambda.cpp" />
-    <ClCompile Include="7.2 Functions_MultipleParameters_Cylinder.cpp" />
-    <ClCompile Include="7.3 Functions_SayingHelloWithoutParamsReturnValue.cpp" />
-    <ClCompile Include="7.4 Functions_DefaulParameters_Pi.cpp" />
-    <ClCompile Include="7.5 Functions_Recursive_Fibonacci.cpp" />
-    <ClCompile Include="7.6 Functions_MultipleReturns.cpp" />
-    <ClCompile Include="7.7 Functions_Overloaded_Area_CyclinderCircle.cpp" />
-    <ClCompile Include="7.8 Functions_Passing_Arrays.cpp" />
-    <ClCompile Include="7.9 Functions_PassingReference.cpp" />
-    <ClCompile Include="Main.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="6.10.1.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 // remove the try-catch block to see this application crash 
@@ -19,3 +19,5 @@ int main()
    }
    return 0;
 }
+
+//  8.15.cpp 异常处理-在new失败时退出

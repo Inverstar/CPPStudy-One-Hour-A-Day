@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 void CalcArea(const double* const ptrPi, // const pointer to const data
@@ -25,3 +25,5 @@ int main()
 
    return 0;
 }
+
+//8.10.cpp 在计算圆面积函数中使用const指针与常量

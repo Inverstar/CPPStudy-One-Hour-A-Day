@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 void GetSquare(int& number)
@@ -17,3 +17,5 @@ int main()
 
    return 0;
 }
+
+//	8.18.cpp 计算平方值并用引用参数返回结果

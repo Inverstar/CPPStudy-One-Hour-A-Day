@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -21,3 +21,5 @@ int main()
 
    return 0;
 }
+
+//8.12.cpp 使用*访问数组元素, 将[]用于指针

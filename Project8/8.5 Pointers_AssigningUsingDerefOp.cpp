@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -21,3 +21,5 @@ int main()
 
    return 0;
 }
+
+//8.5 使用指针和解除引用运算符操纵数据

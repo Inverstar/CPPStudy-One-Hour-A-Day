@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
@@ -16,3 +16,5 @@ int main()
 
    return 0;
 }
+
+//  8.16.cpp new(nothrow)的使用
